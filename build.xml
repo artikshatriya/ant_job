@@ -1,0 +1,6 @@
+<?xml version = "1.0"?>
+<project name = "Hello-world" default="info">
+<target name = "info">
+<echo>Hello World - welcome to tcs training on Jenkins </echo>
+</target>
+</project>
